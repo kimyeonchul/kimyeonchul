@@ -1,4 +1,3 @@
-# New Document
 # KimYeonChul
 ### Hi there 👋
 
