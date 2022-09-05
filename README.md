@@ -36,4 +36,5 @@
 
  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/churi__/)
 
-<img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
