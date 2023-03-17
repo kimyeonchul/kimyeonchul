@@ -2,7 +2,11 @@
 <a https://www.instagram.com/churi__/ >
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
-
+<a href="https://www.instagram.com/churi__/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/churi__/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
 
