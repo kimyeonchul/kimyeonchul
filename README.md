@@ -1,11 +1,11 @@
 <h2>안뇽</h2>
-
+<div>
 <a href="https://www.instagram.com/churi__/">
     <img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/churi__/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+</div>
 
 
 
