@@ -1,13 +1,13 @@
 <h2>About Me</h2>
 <ul>
     <li>
-        <b>Gmail</b> kimyeonchul0807@gmail.com
+        <b>Gmail</b> <kimyeonchul0807@gmail.com>
     </li>
     <li>
-        <b>Slack</b> 201810912@sangmyung.kr
+        <b>Slack</b> <201810912@sangmyung.kr>
     </li>
     <li>
-        <b>Domain</b> <a href="nalraon.notion.site">nalraon.notion.site</a>
+        <b>Domain</b> [nalraon](https://nalraon.notion.site)
     </li>
 </ul>
 
