@@ -1,26 +1,36 @@
-<h2>안뇽</h2>
-<div>
-<a href="https://www.instagram.com/churi__/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/churi__/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-</div>
+<h2>About Me</h2>
+<ul>
+    <li>
+        <b>Gmail</b> kimyeonchul0807@gmail.com
+    </li>
+    <li>
+        <b>Slack</b> 201810912@sangmyung.kr
+    </li>
+    <li>
+        <b>Domain</b> <a href="nalraon.notion.site">nalraon.notion.site</a>
+    </li>
+</ul>
 
+<h2>Education</h2>
+<ul>
+    <li>
+        2015.03-2018.02 상록고등학교
+    </li>
+    <li>
+        2018.03-2024.02 상명대학교 컴퓨터과학전공 
+    </li>
+    <li>
+        2023.01 2023 AWS/Elastic Cloud 기반 특별 교육과정 
+    </li>
+    <li>
+        2023.09-2024.04 AWS Cloud School 2
+    </li>
+</ul>
 
+<h2>Stack & Language </h2>
 
-
-
-
-
-
-<img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=Elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=JavaScript&logoColor=white"/>
+<h2>Certifications</h2>
+<ul>
+    <li>2023 정보처리기사</li>
+    <li>2024 AWS SAA-C03</li>
+</ul>
