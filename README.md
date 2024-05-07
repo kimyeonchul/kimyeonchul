@@ -28,7 +28,7 @@
 </ul>
 
 <h2>Stack & Language </h2>
-![기술스택](https://github.com/kimyeonchul/kimyeonchul/assets/87411576/974a88fd-6b49-4b83-926a-0e6c8bd2560d)
+<img src="./기술스택.png"/>
 
 <h2>Certifications</h2>
 <ul>
