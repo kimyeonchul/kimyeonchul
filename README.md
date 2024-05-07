@@ -35,3 +35,5 @@
     <li>2023 정보처리기사</li>
     <li>2024 AWS SAA-C03</li>
 </ul>
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimyeonchul)](https://github.com/anuraghazra/github-readme-stats)
