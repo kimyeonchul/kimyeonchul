@@ -28,7 +28,8 @@
 </ul>
 
 <h2>Stack & Language </h2>
-![image](https://github.com/kimyeonchul/kimyeonchul/assets/87411576/79594d3e-d8fd-4d8e-b932-b5db4a7a2598)
+![기술스택](https://github.com/kimyeonchul/kimyeonchul/assets/87411576/974a88fd-6b49-4b83-926a-0e6c8bd2560d)
+
 <h2>Certifications</h2>
 <ul>
     <li>2023 정보처리기사</li>
